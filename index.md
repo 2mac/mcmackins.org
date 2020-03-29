@@ -9,6 +9,12 @@ anecdotes about what's going on in my life.
 News
 ----
 
+### I'm Switching to OpenBSD (March 29, 2020)
+
+After all this time, I'm finally getting away from Linux.
+
+[Read more...](/articles/openbsd.html)
+
 ### Walkie Talkies Aren't Just Toys (October 20, 2018)
 
 I did some equipment testing recently to test the viability of cheap FRS radios
@@ -39,14 +45,5 @@ be useful to teachers in a similar predicament.
 I finally wrote something again!
 
 [Read!](/stories/update1704.html)
-
-### Decoding PowerPaint's custom image format (August 20, 2016)
-
-I've been playing with [FreeDOS](http://www.freedos.org) for a little while
-now, and I installed a little paint program from the 90s on it. One image just
-belonged on the Internet, so I decided to convert it to an image format used by
-today's image-viewing software.
-
-[Read more...](/stories/decoding-ymg.html)
 
 [Older...](/newsarchive.html)

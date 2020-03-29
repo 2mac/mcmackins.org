@@ -3,6 +3,15 @@
 News Archive
 ============
 
+### Decoding PowerPaint's custom image format (August 20, 2016)
+
+I've been playing with [FreeDOS](http://www.freedos.org) for a little while
+now, and I installed a little paint program from the 90s on it. One image just
+belonged on the Internet, so I decided to convert it to an image format used by
+today's image-viewing software.
+
+[Read more...](/stories/decoding-ymg.html)
+
 ### Retro awesomeness (June 8, 2016)
 
 I've been writing a standard C library for the Nintendo Game Boy system over at
