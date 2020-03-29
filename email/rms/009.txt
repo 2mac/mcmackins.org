@@ -1,0 +1,30 @@
+[[[ To any NSA and FBI agents reading my email: please consider    ]]]
+[[[ whether defending the US Constitution against all enemies,     ]]]
+[[[ foreign or domestic, requires you to follow Snowden's example. ]]]
+
+  > I recently tried to submit a C library I wrote to savannah.nongnu.org
+  > and was rejected because I do not use the or later clause with my
+  > GPL-licensed work.
+
+That's right.  We want to encourage people to use that clause,
+and we do so with our facilities.
+
+  > I do this, because I cannot possibly agree with terms that have not been
+  > written, and while I have a bit of trust that future versions of the GPL
+  > (or in my case the AGPL) will be concurrent with my views, I cannot be
+  > for certain.
+
+I think you're taking a big risk to avoid a small risk.
+
+The small risk is that we might make GPLv4 too lax and permit
+some things you would rather not permit.
+
+The big risk is that you will get sick, die, be imprisoned,
+or just lose interest, and thus not consider upgrading to GPLv4
+in 20 years, or GPLv7 in 70 years from now, and thus cause your code
+to be incompatible with those GPL versions.
+
+The former is rather unlikely, though I agree it can't be absolutely
+ruled out.  The latter gets more and more likely with time.
+
+-- Dr Richard Stallman President, Free Software Foundation 51 Franklin St Boston MA 02110 USA www.fsf.org www.gnu.org Skype: No way! See stallman.org/skype.html. 

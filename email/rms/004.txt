@@ -1,0 +1,40 @@
+[[[ To any NSA and FBI agents reading my email: please consider    ]]]
+[[[ whether defending the US Constitution against all enemies,     ]]]
+[[[ foreign or domestic, requires you to follow Snowden's example. ]]]
+
+    In light of recent events, you will likely be pleased to find out that I 
+    am now an associate member of the FSF.
+
+Thank you for supporting us.
+
+    Since I believe you download web pages to read them, you may want 
+    instead a copy of the markdown source which is designed to be easier to 
+    read. It's at http://mcmackins.guru/stories/fsf.md
+
+I will take a look.
+
+    I did use the term "Linux" 
+    to refer to the operating system two or three times only because it was 
+    put that way in the name of the GNU/Linux distributions. I tend to call 
+    things what they're named, so those particular ones were referred to as 
+    desired by the maintainers.
+
+I follow that principle too, except regarding things I really hate.
+(See http://www.gnu.org/philosophy/why-call-it-the-swindle.html.)  I don't
+hate most of those distros, though I criticize them.
+
+However, _they violated that very principle themselves_ when they made
+a version of GNU/Linux and called it "Something Linux".  Having done
+this, they are not entitled to the benefit of that principle from you.
+
+In other words, if they have the cheek to change the name of our
+system, why shouldn't we change it back?
+
+-- Dr Richard Stallman 
+President, Free Software Foundation 
+51 Franklin St 
+Boston MA 02110 
+USA 
+www.fsf.org www.gnu.org 
+Skype: No way! That's nonfree (freedom-denying) software. 
+Use Ekiga or an ordinary phone call. 

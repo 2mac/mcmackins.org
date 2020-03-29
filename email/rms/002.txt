@@ -1,0 +1,67 @@
+[[[ To any NSA and FBI agents reading my email: please consider    ]]]
+[[[ whether defending the US Constitution against all enemies,     ]]]
+[[[ foreign or domestic, requires you to follow Snowden's example. ]]]
+
+    I do apologize for use of the term "FOSS" in my e-mail. I didn't realize 
+    quite how you felt about the cooperation between the free software 
+    community and the open-source initiative.
+
+I wouldn't put it that way.
+
+Our whole community is the free software community.  "Open source" was
+started by people in the free software community.
+
+Some of the community are free software activists,
+some are open source  supporters, some hold intermediate
+positions, and some don't think about the issue.
+
+That usually doesn't affect _cooperation_
+On practical work, we all cooperate.
+
+However, on symbolic statements, such as what to call
+the community, the choice of what to say has practical consequences.
+
+    To defend my statements, the reason I used the term and others like it 
+    were because I perceive LinuxFest as a gathering of the open-source 
+    community, not necessarily the free software community.
+
+I expect you're right that the event's own posture is to favor open
+source.  But you don't have to follow their terminology -- what you
+say is up to you.
+
+You don't have to follow me on terminology either.  But you might want
+to think about my reasons for my choice.
+
+Basically, if you say "open source" or "FOSS" frequently, you don't
+visibly present yourself as a supporter of free software, so we don't
+get a kind of support that we need very much.
+
+    The vibe I got from the representative at the booth was 
+    not even that they showed interest in participating in the open-source 
+    initiative (and certainly not the FSM), but rather that they wanted to 
+    use the open-source (and often-times free) software on their own 
+    platform (the rep seemed to be particularly highlighting Windows Azure), 
+    and to make the software run "better" on that platform to encourage 
+    people to use it rather than a free one.
+
+That's what I would expect.  And here the difference between free
+software and open source has an effect.  With free software as the
+background, they would be recognized be exploiters and would be
+drummed out.  However, because open source has abandoned our ethical
+concerns, that as a background offers no basis to recognize and
+condemn such exploiters.
+
+Thus, I suggest using them as an example to show why we should
+support free software rather than open source.
+
+Maybe you'd like to prepare a handout about this and bring copies
+to some event.
+
+-- Dr Richard Stallman 
+President, Free Software Foundation 
+51 Franklin St 
+Boston MA 02110 
+USA 
+www.fsf.org www.gnu.org 
+Skype: No way! That's nonfree (freedom-denying) software. 
+Use Ekiga or an ordinary phone call. 

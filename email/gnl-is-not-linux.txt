@@ -1,0 +1,218 @@
+Hello, KV.
+
+Today, I read your article in the April 2016 volume of Communications of
+the ACM entitled "GNL Is Not Linux". I realize that you probably
+expected the polarizing topic of your article to stir up some backlash
+toward your opinions. While I disagree with the opinions you expressed
+in the article, that's not what I'm writing to you about; you are
+entitled to have your opinion, and it is unlikely that I will be able to
+persuade you to believe differently about the GNU/Linux naming controversy.
+
+What I have decided to write to you about today is about factual issues
+and misrepresentation of the opinions of others. I'll be quoting from
+your article directly and responding to these parts piece by piece, and
+I'll summarize my issues and impressions at the bottom.
+
+> In 2016, more than 50 years after all these changes started, it is now
+> common to have access to the source, because of the open source
+> movement, but the was uncommon at the start of the Unix age.
+
+This is not entirely incorrect, but you failed to mention that for a
+long time, software copyright did not even exist, and it was commonplace
+to get source with your software because having a computer and no way to
+really change its software is hardly useful at all. I don't recall a
+place where you mention this, and it's an important part of why the free
+software movement was started.
+
+> At about the same time, FSF had, supposedly, been developing its own
+> operating system (Hurd), ...
+
+I'd like to stop here to point out that Hurd in and of itself is not an
+operating system. In the eyes of the FSF and others, a kernel does not
+compose an entire OS, because it lacks a user interface. An operating
+system is hardly useful if one cannot actually be a user of it. Thus, we
+make a distinction between a complete operating system and simply a
+kernel. This is an oversight in your assessment of why Linux does not
+deserve the title of "operating system", and I will get more into that
+below.
+
+> The people who created FSF felt cheated when others took the software
+> they had worked on--and which was developed under various government
+> grants--started companies, and tried to make money with it.
+
+This is blatantly false. One of the core principles of free software
+(according to the FSF) is the ability to redistribute both verbatim and
+modified copies of software either gratis or for a charge, and gnu.org
+has documented working business models for free software, and they are
+used by many big and small companies (notably Red Hat, SUSE, and
+Canonical). While the FSF might have other disagreements with the
+practices of these companies, it has never condemned the act of making
+money with software, no matter who wrote it.
+
+More on this...
+
+> There are those who believe no one should be able to charge for
+> software...
+
+There are such people, but do not confuse the FSF for such people.
+
+> ... or to close it off from others, ...
+
+This is not entirely true of the FSF either. The FSF advocates the
+ability to use software for any purpose privately, including running an
+unreleased modified version of a program. However, when the time comes
+to redistribute this modified version, the FSF believes that the
+recipients of those copies should have the same freedoms given to the
+one who modified it.
+
+> ... and those who want to share their knowledge, whether or not the
+> receiver of that knowledge makes a buck with it.
+
+The above quote is the position of the FSF.
+
+(skipping a bit)
+
+> The whole GNU/Linux naming silliness is probably a case of kernel envy
+
+I doubt anyone feels this way, and it's indicative that the FSF's entire
+point has whooshed over your head. Please read the following carefully
+to avoid misunderstanding:
+
+The name GNU/Linux (or GNU+Linux) does not come from any sort of envy of
+Linux's success, and it does not (as you implied in the previous
+paragraph which I did not quote directly) come from the idea that
+because Linux ("a house") was made using GNU software ("tools"). It has
+to do with the fact that the modern "Linux" system as it is referred to
+is in fact a combination of GNU and Linux, not just tools used to make
+the "real" system.
+
+Imagine spending 10 years of your life working on something important to
+you called Foo. After that time, someone else comes along and decides to
+combine your work with their newer work called Bar. This new work is
+neither Foo nor Bar on its own, but a combination of the two. Now
+imagine that the creator of Bar decides to just call this combination
+Bar. Would it not be justified that you be slightly upset that your work
+is being shadowed by the name of only the work with which yours was
+combined? Might it be considered reasonable to propose a better name,
+such as Foobar, or even Barfoo if it sounded better? Maybe those names
+don't roll off the tongue, so call it Baz for simplicity.
+
+The point is, while GNU/Linux and GNU+Linux are clunky names, they exist
+for exactly the above scenario. Many individuals poured their efforts
+into the GNU system's development for nearly a decade before Linux was
+licensed under the GPLv2, but people started calling the system by the
+name of the new work which was combined with the old work instead of
+giving it a new proper name. Perhaps if there were a better name for
+this combined work, your article would never have been written, but no
+one has really proposed a good one. The only one I can recall is the
+equally clunky and perhaps repulsive name LiGNUx.
+
+Now, one last part...
+
+> Should we now rename all of our systems as GNU/APACHE/FOO/BAR?
+
+While the GNU/Linux FAQ actually does answer this question, I think I
+have a better answer, one that is accepted by the community that hardly
+anyone notices.
+
+While the name GNU+Linux describes a system composed of GNU user
+software and Linux for a kernel, it fails to mention more specific parts
+of an OS someone would actually run, such as a window system, web
+browser, database programs, etc.
+
+The name for such combinations is simple: distribution names. When the
+software combination collection gets large enough that it becomes absurd
+to credit everyone, we give it a new name, like Ubuntu, CentOS, Debian,
+Arch, SUSE, Parabola, Fedora, or Trisquel. These are all names of such
+specific combinations, and they are used widely by the community. The
+only reason names like "GNU+Linux" are relevant is when we need to speak
+about all systems with a GNU userspace and Linux kernel collectively.
+
+Now, your attitude in this article comes across slightly apathetic, so I
+presume you would respond to this along the lines of, "Well, people know
+what I'm talking about when I tell them 'Linux'." That may be true, but
+there is a more subtle issue you may not have noticed. When we
+erroneously use the name "Linux" to describe the GNU+Linux system,
+individuals without a deeper understanding of the system are
+misinformed, and this manifests itself in several ways.
+
+One such way that comes to mind is an article I read some time last
+year. I forget the exact nature of the article now, but it had to do
+with Apple's OS X system. It made a false claim that OS X's terminal
+application gives the user access to "the Linux command line". Well,
+people who understand the system know that such a claim is false. But
+why is it false? After all, it's the same command line that you get when
+you use a "Linux" system, isn't it? Well, actually, no.
+
+I'll first approach this from your more practical perspective. One might
+get the impression that it's "Linux" because they are using GNU Bash as
+the shell, a shell used commonly on any GNU system, especially
+GNU+Linux. This being the case, it might be more appropriate to say "the
+GNU command line", but that's false as well! In addition to having GNU
+Bash, most of the CLI utilities (like find, cp, rm, which) are actually
+modified versions of the FreeBSD implementations of those programs,
+which means that a Bash script that runs on OS X might not run on your
+Red Hat server, because the Red Hat one uses GNU coreutils (this has
+actually happened once at my day job due to this confusion on the part
+of a programmer there). The answer is, it's the OS X command line,
+because that's what it is. It's a combination of GNU, FreeBSD, and
+others, and it's unique to OS X (for all intents and purposes).
+
+From a different perspective, Linux is a kernel and thus doesn't have a
+command line at all, so a term like "Linux command line" is erroneous by
+default. The only exception to this is that I have heard from someone
+(but not confirmed) that Linux actually does implement a simple shell
+for reasons I don't know; however, I have never heard of anyone actually
+using this shell in their OS, so it might as well not exist. My thoughts
+are that it might be the shell you get if the kernel fails and it throws
+you a root prompt and says "good luck fixing this one" as you sink into
+the deep end and consider reinstalling your system. I heard from the
+same person that they are considering removing that shell. If that
+happens, then it really won't exist, and my point still stands. Lastly
+on that note, it's not in the scope of a kernel to have such a user
+interface, since the kernel's job is to manage the hardware and give an
+interface to it for userspace programs.
+
+To conclude all of this, I think your big problem was that you did not
+take the measures necessary to really get all sides of the story before
+publishing your opinion on it. You brought up a bit of history, all of
+which was factual as far as I know, but I haven't bothered confirming
+any of it, and you were even nice enough to provide a link to the
+gnu.org article which addresses this very issue, yet somehow you failed
+to see its whole point. You are right that "the tool is not the thing
+the tool builds", but that isn't anyone's point at all. It seems to me
+you provided this information to build some credibility for yourself
+before adding your own assumptions, knowing the reader would be less
+likely to question you with your credible history you gave, and perhaps
+you even put the gnu.org article there with the assumption that no one
+would bother to read it and see how you misrepresented their ideas
+completely.
+
+Again, I do not expect to change your opinion on the matter, but I do
+hope you might add something in the next issue of the magazine which
+addresses the blatantly false claims about the beliefs and values of the
+FSF. This e-mail is not meant as a personal insult in any way; I am just
+quite emotional about this topic, and I see this kind of outright false
+accusation as libel in a case where a reader of the magazine decided to
+believe your words and then assume that the FSF is composed of only
+lunatics who think that software ought not to cost anything or that one
+shouldn't be able to get money from it.
+
+Remember that "free" in "free software" does not refer to "free of
+charge" (what I call "gratis"); it refers to "free of legal handcuffs
+preventing the ability to use, modify, and redistribute either at no
+cost or for a charge" (what I call "libre" when I need to make a
+distinction). More simply, "free speech", not "free beer".
+
+If you have any concerns about this, I will be happy to address them,
+and if you would like to discuss things based more on opinion, I am up
+for that as well. I just couldn't rest easy with that kind of
+misunderstanding left on the paper completely unaddressed.
+
+Happy Hacking,
+
+David E. McMackins II
+Associate, Free Software Foundation (#12889)
+
+www.mcmackins.org www.delwink.com
+www.gnu.org www.fsf.org

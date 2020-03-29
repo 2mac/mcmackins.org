@@ -1,0 +1,31 @@
+[[[ To any NSA and FBI agents reading my email: please consider    ]]]
+[[[ whether defending the US Constitution against all enemies,     ]]]
+[[[ foreign or domestic, requires you to follow Snowden's example. ]]]
+
+    I'd like to know how you feel about derivative distros such as Xubuntu 
+    that use other desktop environments. Now, I understand that those 
+    distros (like so many others) include nonfree software either in 
+    userspace or kernelspace. For this e-mail, I'm going to overlook those 
+    details; I am purely interested in how you see the derivative Ubuntu 
+    distros that don't implement the same kind of spyware.
+
+If a variant of Ubuntu does not spy, the spying issue does not apply
+to it.  But we have to be careful in the conclusions we draw from that.
+
+Our priority is to convince the Ubuntu to stop the spying, so that we
+can say, "The free software community effectively keeps malware out."
+
+Finding a way to use Ubuntu and not be snooped on is NOT real success.
+Success is making Ubuntu stop snooping.
+
+So we should emphasize that Ubuntu does spy, and not be distracted by
+the fact that Foobuntu or Goobuntu do not spy.
+
+-- Dr Richard Stallman 
+President, Free Software Foundation 
+51 Franklin St 
+Boston MA 02110 
+USA 
+www.fsf.org www.gnu.org 
+Skype: No way! That's nonfree (freedom-denying) software. 
+Use Ekiga or an ordinary phone call. 

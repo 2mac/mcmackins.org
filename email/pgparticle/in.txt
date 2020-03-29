@@ -1,0 +1,12 @@
+This is a test e-mail to demonstrate OpenPGP Encryption.
+
+Happy Hacking,
+
+David E. McMackins II
+Associate, Free Software Foundation (#12889)
+
+Freelance Libre Software Developer
+
+www.mcmackins.org www.delwink.com
+www.gnu.org www.fsf.org
+

@@ -1,0 +1,53 @@
+[[[ To any NSA and FBI agents reading my email: please consider    ]]]
+[[[ whether defending the US Constitution against all enemies,     ]]]
+[[[ foreign or domestic, requires you to follow Snowden's example. ]]]
+
+    Despite the cloud of disdain surrounding Microsoft in the FOSS 
+    community,
+
+I think of it as the "free software community" -- using the term "FOSS"
+doesn't support the free software movement, so I avoid that term.
+
+See http://www.gnu.org/philosophy/floss-and-foss.html for why.
+
+	       they made an appearance at LinuxFest Northwest, and they were 
+    said to be one of the most popular booths there.
+
+That is very unfortunate.  The main thing Microsoft does is attack
+users' freedom; while it occasionally does some things that are good
+(in and of themselves), those are minor side issues.
+
+     Although open-source != free software, it 
+    definitely caught my interest that there was any desire at all within 
+    the corporation I most criticize to be more open.
+
+I'm not particularly impressed when any company wants to make software
+"open", because I think of "open" as a distraction from what really
+matters: respect for freedom.
+
+    Do you think that something like this might be the activation energy 
+    needed to bring Micro$haft to the ways of good ethics and free software, 
+    or do you think this is just an attempt to get the approval of FOSS 
+    advocates who would otherwise not buy their products?
+
+The executives who run Microsoft are not influenced by warm and fuzzy
+feelings.  They calculate strategies for their profit.  Their PR
+department is tasked with influencing the public, not with advising
+the executives about software licensing.
+
+They might really a chance of influencing people in our community who
+think of it as "open source" or "FOSS", and don't have a clear idea of
+the freedom issue or a firm stand for freedom.  Microsoft really does
+make some programs free, and they are real contributions.  If a
+company did ONLY those things, we could say it was good.  But what
+Microsoft wants is for these secondary good deeds to blind us to the
+harm and wrong it continues to do.
+
+-- Dr Richard Stallman 
+President, Free Software Foundation 
+51 Franklin St 
+Boston MA 02110 
+USA 
+www.fsf.org www.gnu.org 
+Skype: No way! That's nonfree (freedom-denying) software. 
+Use Ekiga or an ordinary phone call. 
