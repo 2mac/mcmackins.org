@@ -9,6 +9,12 @@ anecdotes about what's going on in my life.
 News
 ----
 
+### Living the Simple Life (March 29, 2020)
+
+Two posts in one day! Unheard of!
+
+[Read the article...](/articles/simple-life.html)
+
 ### I'm Switching to OpenBSD (March 29, 2020)
 
 After all this time, I'm finally getting away from Linux.
@@ -39,11 +45,5 @@ decided to settle the matter with mathematics. I think this information could
 be useful to teachers in a similar predicament.
 
 [Read the paper...](/res/papers/question-deletion.pdf)
-
-### An update (April 29, 2017)
-
-I finally wrote something again!
-
-[Read!](/stories/update1704.html)
 
 [Older...](/newsarchive.html)

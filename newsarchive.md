@@ -3,6 +3,12 @@
 News Archive
 ============
 
+### An update (April 29, 2017)
+
+I finally wrote something again!
+
+[Read!](/stories/update1704.html)
+
 ### Decoding PowerPaint's custom image format (August 20, 2016)
 
 I've been playing with [FreeDOS](http://www.freedos.org) for a little while
