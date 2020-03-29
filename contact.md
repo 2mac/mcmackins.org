@@ -1,4 +1,4 @@
-<title>Contact Dave's World</title>
+<title>Contact Dave</title>
 
 Contact Me
 ==========
