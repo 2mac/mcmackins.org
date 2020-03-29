@@ -1,4 +1,4 @@
-<title>Funny Moments - That GNU+Linux Guy</title>
+<title>Funny Moments - Dave's World</title>
 
 Funny Moments
 =============

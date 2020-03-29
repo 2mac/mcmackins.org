@@ -1,4 +1,4 @@
-<title>Switching Julie - That GNU+Linux Guy</title>
+<title>Switching Julie - Dave's World</title>
 
 Switching Julie
 ===============

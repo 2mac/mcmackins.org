@@ -1,4 +1,4 @@
-<title>What's Up? (April 2017) - That GNU+Linux Guy</title>
+<title>What's Up? (April 2017) - Dave's World</title>
 
 What's Up? (April 2017)
 =======================

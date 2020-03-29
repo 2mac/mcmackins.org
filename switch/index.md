@@ -1,4 +1,4 @@
-<title>Switch to Free - That GNU+Linux Guy</title>
+<title>Switch to Free - Dave's World</title>
 
 <a href="http://www.upgradefromwindows8.com"><img 
 src="//static.fsf.org/fsforg/graphics/windows-infographic_share.png" 

@@ -1,4 +1,4 @@
-<title>Use PGP Encryption - That GNU+Linux Guy</title>
+<title>Use PGP Encryption - Dave's World</title>
 
 Use PGP Encryption
 ------------------

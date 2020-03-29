@@ -1,4 +1,4 @@
-<title>Learn Python - That GNU+Linux Guy</title>
+<title>Learn Python - Dave's World</title>
 
 Learn Python
 ============

@@ -1,4 +1,4 @@
-<title>A HELPDESK LOG - That GNU+Linux Guy</title>
+<title>A HELPDESK LOG - Dave's World</title>
 
 This is a story as old as the Internet, and it's funny enough I archived a copy.
 

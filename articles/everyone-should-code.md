@@ -1,4 +1,4 @@
-<title>Everyone Should Learn to Code - That GNU+Linux Guy</title>
+<title>Everyone Should Learn to Code - Dave's World</title>
 
 Everyone Should Learn to Code
 =============================

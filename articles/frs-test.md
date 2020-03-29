@@ -1,4 +1,4 @@
-<title>Walkie Talkies Aren't Just Toys - That GNU+Linux Guy</title>
+<title>Walkie Talkies Aren't Just Toys - Dave's World</title>
 
 Walkie Talkies Aren't Just Toys
 ===============================

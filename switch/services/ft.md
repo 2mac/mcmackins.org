@@ -1,4 +1,4 @@
-<title>Fundamental Training - That GNU+Linux Guy</title>
+<title>Fundamental Training - Dave's World</title>
 
 Fundamental Training
 ====================

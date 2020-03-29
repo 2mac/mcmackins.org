@@ -1,4 +1,4 @@
-<title>Fall 2014 Back to School - That GNU+Linux Guy</title>
+<title>Fall 2014 Back to School - Dave's World</title>
 
 It's That Time Again
 ====================

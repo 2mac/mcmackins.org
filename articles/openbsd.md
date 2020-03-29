@@ -1,4 +1,4 @@
-<title>Switching to OpenBSD - That GNU+Linux Guy</title>
+<title>Switching to OpenBSD - Dave's World</title>
 
 I'm Switching to OpenBSD
 ========================

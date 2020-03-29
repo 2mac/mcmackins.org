@@ -1,4 +1,4 @@
-<title>Slowly Transition to Free - That GNU+Linux Guy</title>
+<title>Slowly Transition to Free - Dave's World</title>
 
 Long-term Free Software Transition
 ==================================

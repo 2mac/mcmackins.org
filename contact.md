@@ -1,4 +1,4 @@
-<title>Contact that GNU+Linux Guy</title>
+<title>Contact Dave's World</title>
 
 Contact Me
 ==========

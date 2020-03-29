@@ -1,4 +1,4 @@
-<title>Why I joined the FSF - That GNU+Linux Guy</title>
+<title>Why I joined the FSF - Dave's World</title>
 
 Why I joined the FSF
 ====================

@@ -1,4 +1,4 @@
-<title>Why I use the GNU General Public License - That GNU+Linux Guy</title>
+<title>Why I use the GNU General Public License - Dave's World</title>
 
 Why I use the GNU General Public License
 ========================================

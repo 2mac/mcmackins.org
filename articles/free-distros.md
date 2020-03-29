@@ -1,4 +1,4 @@
-<title>Free Distros Aren't For Suckers! - That GNU+Linux Guy</title>
+<title>Free Distros Aren't For Suckers! - Dave's World</title>
 
 Free Distros Aren't For Suckers!
 ================================

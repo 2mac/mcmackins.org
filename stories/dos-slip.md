@@ -1,4 +1,4 @@
-<title>DOS Network Connectivity via SLIP - That GNU+Linux Guy</title>
+<title>DOS Network Connectivity via SLIP - Dave's World</title>
 
 How I connected a DOS laptop to the Internet by becoming my own SLIP ISP
 ========================================================================

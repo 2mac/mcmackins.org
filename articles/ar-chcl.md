@@ -1,4 +1,4 @@
-<title>Arkansas CHCL Prohibited Places - That GNU+Linux Guy</title>
+<title>Arkansas CHCL Prohibited Places - Dave's World</title>
 
 Arkansas CHCL Prohibited Places
 ===============================

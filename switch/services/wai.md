@@ -1,4 +1,4 @@
-<title>Windows Application Installation - That GNU+Linux Guy</title>
+<title>Windows Application Installation - Dave's World</title>
 
 Windows Application Installation
 ================================

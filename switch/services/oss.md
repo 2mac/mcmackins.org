@@ -1,4 +1,4 @@
-<title>Operating System Switch - That GNU+Linux Guy</title>
+<title>Operating System Switch - Dave's World</title>
 
 Operating System Switch
 =======================

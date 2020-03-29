@@ -1,4 +1,4 @@
-<title>Custom Package Installation - That GNU+Linux Guy</title>
+<title>Custom Package Installation - Dave's World</title>
 
 Custom Package Installation
 ===========================

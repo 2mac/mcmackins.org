@@ -1,4 +1,4 @@
-<title>Software Training - That GNU+Linux Guy</title>
+<title>Software Training - Dave's World</title>
 
 Software Training
 =================

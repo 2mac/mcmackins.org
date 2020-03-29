@@ -1,4 +1,4 @@
-<title>Living the Simple Life - That GNU+Linux Guy</title>
+<title>Living the Simple Life - Dave's World</title>
 
 Living the Simple Life
 ======================

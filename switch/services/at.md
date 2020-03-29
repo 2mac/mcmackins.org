@@ -1,4 +1,4 @@
-<title>Advanced Training - That GNU+Linux Guy</title>
+<title>Advanced Training - Dave's World</title>
 
 Advanced Training
 =================

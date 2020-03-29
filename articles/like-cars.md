@@ -1,4 +1,4 @@
-<title>Computer Operating Systems Are Like Cars - That GNU+Linux Guy</title>
+<title>Computer Operating Systems Are Like Cars - Dave's World</title>
 
 Computer Operating Systems Are Like Cars
 ========================================

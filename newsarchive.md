@@ -1,4 +1,4 @@
-<title>Old News - That GNU+Linux Guy</title>
+<title>Old News - Dave's World</title>
 
 News Archive
 ============

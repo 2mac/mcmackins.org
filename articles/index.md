@@ -1,4 +1,4 @@
-<title>Articles - That GNU+Linux Guy</title>
+<title>Articles - Dave's World</title>
 
 Articles
 ========

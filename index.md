@@ -1,4 +1,4 @@
-<title>That GNU+Linux Guy</title>
+<title>Dave's World</title>
 
 David McMackins' Personal Plot of the Interwebs
 ===============================================

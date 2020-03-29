@@ -1,4 +1,4 @@
-<title>Decoding PowerPaint's custom image format - That GNU+Linux Guy</title>
+<title>Decoding PowerPaint's custom image format - Dave's World</title>
 
 Decoding PowerPaint's custom image format
 =========================================

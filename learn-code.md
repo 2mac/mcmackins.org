@@ -1,4 +1,4 @@
-<title>Learn Code! - That GNU+Linux Guy</title>
+<title>Learn Code! - Dave's World</title>
 
 Learn to Code
 =============

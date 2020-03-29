@@ -1,4 +1,4 @@
-<title>Hardware Troubleshooting - That GNU+Linux Guy</title>
+<title>Hardware Troubleshooting - Dave's World</title>
 
 Hardware Troubleshooting
 ========================

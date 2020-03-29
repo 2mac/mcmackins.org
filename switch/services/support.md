@@ -1,4 +1,4 @@
-<title>Technical Support - That GNU+Linux Guy</title>
+<title>Technical Support - Dave's World</title>
 
 Technical Support
 =================

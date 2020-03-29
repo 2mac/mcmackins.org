@@ -1,4 +1,4 @@
-<title>Stories - That GNU+Linux Guy</title>
+<title>Stories - Dave's World</title>
 
 Stories
 ========

@@ -1,4 +1,4 @@
-<title>iDad - That GNU+Linux Guy</title>
+<title>iDad - Dave's World</title>
 
 iDad
 ====

@@ -1,4 +1,4 @@
-<title>About that GNU+Linux Guy</title>
+<title>About Dave</title>
 
 About Me
 ========

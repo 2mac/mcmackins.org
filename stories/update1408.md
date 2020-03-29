@@ -1,4 +1,4 @@
-<title>What's Up? August 2014 - That GNU+Linux Guy</title>
+<title>What's Up? August 2014 - Dave's World</title>
 
 What's Up? (Aug. 2014)
 ======================
