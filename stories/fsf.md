@@ -108,6 +108,13 @@ given my number: 12889.
 During September and October 2014, I made the switch to free distros (Parabola 
 and Trisquel). Read about it [here](/articles/free-distros.html).
 
+### Amendment 2
+
+For various reasons that don't belong in a small amendment section, I no longer
+support the FSF. I don't necessarily regret what I have done. It was an
+important step in my character development. However, it is clear to me that the
+FSF is at odds with my personal values.
+
 ### Notes
 
 By request of RMS himself, I provide the following notices:
