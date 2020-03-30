@@ -36,11 +36,11 @@ philosophy which is far more consistent and doesn't require copyright law in
 order to function, which appeals to my libertarian tendencies.
 
 Because of this situation, I've decided to switch to BSD basically anywhere I
-can. I'm starting with my new ThinkPad T480 laptop I got recently, which I'm
-using to write this article. My preferred BSD is OpenBSD because of its
-simplicity and focus on security. I've started to take computer security a lot
-more seriously lately, and OpenBSD makes it relatively painless to build a
-secure system.
+can. I'm starting with my new ThinkPad T480 laptop I got after a frustrating
+two-month wait (blame COVID-19), which I'm using to write this article. My
+preferred BSD is OpenBSD because of its simplicity and focus on security. I've
+started to take computer security a lot more seriously lately, and OpenBSD
+makes it relatively painless to build a secure system.
 
 I am planning to build a NAS soon, and I'll be using FreeBSD for its first
 class support of the amazing ZFS file system. I plan to use FreeNAS for the
