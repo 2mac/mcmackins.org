@@ -3,6 +3,16 @@
 News Archive
 ============
 
+### My first math paper (October 3, 2017)
+
+I recently encountered a scenario in a class I'm taking where there was a big
+argument about what should be done with unfair questions on an exam. The
+discussion appeared to be entirely centered on intuition and emotions, so I
+decided to settle the matter with mathematics. I think this information could
+be useful to teachers in a similar predicament.
+
+[Read the paper...](/res/papers/question-deletion.pdf)
+
 ### An update (April 29, 2017)
 
 I finally wrote something again!

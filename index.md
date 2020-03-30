@@ -9,6 +9,12 @@ anecdotes about what's going on in my life.
 News
 ----
 
+### Why I Stopped Using the GPL (March 30, 2020)
+
+My license preferences have changed since last I wrote about them.
+
+[Read the article...](/articles/not-gpl.html)
+
 ### Living the Simple Life (March 29, 2020)
 
 Two posts in one day! Unheard of!
@@ -35,15 +41,5 @@ FreeDOS connected to the Internet, and I've finally done it. In this article, I
 show off my setup and give the steps on how it's done.
 
 [Read more...](/stories/dos-slip.html)
-
-### My first math paper (October 3, 2017)
-
-I recently encountered a scenario in a class I'm taking where there was a big
-argument about what should be done with unfair questions on an exam. The
-discussion appeared to be entirely centered on intuition and emotions, so I
-decided to settle the matter with mathematics. I think this information could
-be useful to teachers in a similar predicament.
-
-[Read the paper...](/res/papers/question-deletion.pdf)
 
 [Older...](/newsarchive.html)

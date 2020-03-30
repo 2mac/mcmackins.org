@@ -31,3 +31,11 @@ respect that.
 
 I will continue to license my software under the GPL because of its
 restrictions. It is through those restrictions that it promotes freedom for all.
+
+Epilogue
+--------
+
+Since writing this, my opinions have changed. I discuss them in
+[another article][1].
+
+[1]: not-gpl.html
