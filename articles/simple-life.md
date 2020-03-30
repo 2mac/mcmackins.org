@@ -63,7 +63,7 @@ light from screens isn't good for circadean rhythm, but it also helped get my
 mind off of the day before bed. Maybe I'll start reading instead.
 
 I encourage you also to go on more walks if you aren't very active
-already. It's really a treat to take in the environment at a liesurely pace
+already. It's really a treat to take in the environment at a leisurely pace
 without being bothered by technology.
 
 I realize this kind of sounds like when old people go on about how much better
