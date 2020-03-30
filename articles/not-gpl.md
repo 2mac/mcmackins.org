@@ -6,7 +6,7 @@ Why I Stopped Using the GPL
 ### March 30, 2020
 
 Some time ago, I wrote [an article][1] about why I used the GNU General Public
-License for my software despite the arguments that it can't possible be a free
+License for my software despite the arguments that it can't possibly be a free
 license when it employs restrictions on how the software may be
 distributed. Since then (and it's been some years now), I've significantly
 changed my mind about the GPL and [copyleft][2] in general.
