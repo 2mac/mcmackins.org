@@ -21,12 +21,18 @@ an argument I'd never heard before: copyleft is self-defeating in practice.
 
 Take for instance the classic case of Linux and ZFS. Linux is an operating
 system kernel licensed under the GPL version 2. ZFS is a file system licensed
-under the Common Development and Distribution License (CDDL) of some
-version. Each of these are "strong copyleft" licenses, i.e. when you distribute
-any other software with them, even if that other software is released under a
-different license, the collection as a whole must be distributed as if
+under the Common Development and Distribution License (CDDL) of some version.
+Each of these are copyleft licenses, i.e. when you "distribute" any other
+software with them in particular ways, even if that other software is released
+under a different license, the collection as a whole must be distributed as if
 everything was under the copyleft license. That being the case, it is
-**illegal** to distribute GPL and CDDL software together.
+**illegal** to distribute GPL and CDDL software together as one integrated
+software system, because each effectively requires some parts of software
+distributed under the terms of the other license to be relicensed.
+Unfortunately, in the case of Linux and ZFS, the specifics of what distribution
+conditions trigger these restrictions are a subject of some debate, and until
+someone gets fined or goes to jail after a court judgement, we simply don't
+know for sure where the line lies.
 
 Some copyleft licenses have explicit compatibility with other copyleft
 licenses. For instance, the Creative Commons Attribution-ShareAlike (CC-BY-SA)
