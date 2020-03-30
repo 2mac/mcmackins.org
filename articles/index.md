@@ -11,7 +11,7 @@ Articles
 
 [Operating Systems Are Like Cars](like-cars.html)
 
-[Free Distros Aren't For Suckers](free-fdsafdsavavaistros.html)
+[Free Distros Aren't For Suckers](free-distros.html)
 
 [Use PGP Encryption](pgp.html)
 
