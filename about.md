@@ -51,7 +51,7 @@ How I do computing
 
 I currently run Debian GNU/Linux as my primary operating system, though I'm in
 the process of [switching to OpenBSD](/articles/openbsd.html). This server runs
-Debian GNU/Linux 8 "Jessie" on an OVH VPS.
+OpenBSD 6.7 on a Vultr VPS.
 
 My personal computer runs Debian GNU/Linux Sid (rolling release) using the i3
 window manager. I mostly use Emacs for programming.
