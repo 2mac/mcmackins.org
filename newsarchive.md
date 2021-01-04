@@ -11,7 +11,7 @@ discussion appeared to be entirely centered on intuition and emotions, so I
 decided to settle the matter with mathematics. I think this information could
 be useful to teachers in a similar predicament.
 
-[Read the paper...](/res/papers/question-deletion.pdf)
+[Read the paper...](/dl/papers/question-deletion.pdf)
 
 ### An update (April 29, 2017)
 
