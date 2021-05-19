@@ -13,9 +13,6 @@ between the hours of 5:00 PM and 9:00 PM US Central time during the week.
 
 If you do not have my number, you may request it by e-mail.
 
-You may also find me in on Freenode and GeekShed IRC. I'm also normally in the
-Jupiter Broadcasting Mumble lobby. Click
-[here](http://mumble.jupiterbroadcasting.org) for the connection details. My
-username on each is Zerock.
+You may also find me in on Libera Chat IRC. My username is Zerock.
 
 [1]: mailto:contact@mcmackins.org
