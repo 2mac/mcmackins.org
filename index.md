@@ -9,6 +9,13 @@ anecdotes about what's going on in my life.
 News
 ----
 
+### How to use RT Systems cables on Linux (February 23, 2022)
+
+I finally figured out a consistent way to get RT Systems programming cables to
+work with CHIRP on Linux.
+
+[Read the article...](/articles/rt-systems-linux.html)
+
 ### Why I Stopped Using the GPL (March 30, 2020)
 
 My license preferences have changed since last I wrote about them.
@@ -33,13 +40,5 @@ I did some equipment testing recently to test the viability of cheap FRS radios
 for neighborhood-scale communication/coordination in a disaster scenario.
 
 [Read the article...](/articles/frs-test.html)
-
-### More retro goodness (August 6, 2018)
-
-I've been trying on-and-off since 2016 to get my late 90s laptop running
-FreeDOS connected to the Internet, and I've finally done it. In this article, I
-show off my setup and give the steps on how it's done.
-
-[Read more...](/stories/dos-slip.html)
 
 [Older...](/newsarchive.html)

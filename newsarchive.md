@@ -3,6 +3,14 @@
 News Archive
 ============
 
+### More retro goodness (August 6, 2018)
+
+I've been trying on-and-off since 2016 to get my late 90s laptop running
+FreeDOS connected to the Internet, and I've finally done it. In this article, I
+show off my setup and give the steps on how it's done.
+
+[Read more...](/stories/dos-slip.html)
+
 ### My first math paper (October 3, 2017)
 
 I recently encountered a scenario in a class I'm taking where there was a big

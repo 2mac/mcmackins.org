@@ -3,6 +3,8 @@
 Articles
 ========
 
+[Using RT Systems cables on Linux](rt-systems-linux.html)
+
 [Why I Stopped Using the GPL](not-gpl.html)
 
 [Living the Simple Life](simple-life.html)
