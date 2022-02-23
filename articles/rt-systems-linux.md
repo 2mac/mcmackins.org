@@ -31,7 +31,7 @@ only runs after all other udev rules have processed it.
 
 Here are the contents of the file:
 
-    ATTRS{idVendor}=="2100", RUN+="/sbin/modprobe -q ftdi_sio", RUN+="/bin/sh -c 'echo 2100 $attr{idProduct} >/sys/bus/usb-serial/drivers/ftdi_sio/new_id'"
+    ATTR{idVendor}=="2100", RUN+="/sbin/modprobe -q ftdi_sio", RUN+="/bin/sh -c 'echo 2100 $attr{idProduct} >/sys/bus/usb-serial/drivers/ftdi_sio/new_id'"
 
 `2100` is the vendor ID for RT Systems. This rule tells udev to run two
 commands when it detects an RT Systems cable. First, it loads the `ftdi_sio`
