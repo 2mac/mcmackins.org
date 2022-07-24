@@ -7,7 +7,7 @@ About Me
 
 My name is David McMackins.
 
-I'm a free/libre software developer. I program in C, Python, Lua,
+I'm a free/libre software developer. I program in C, Ruby, Python, Lua,
 JavaScript, and Java. I also have exposure to C++, Scheme, Emacs Lisp, Vala,
 Pascal, and Prolog. Most of my important work will be done under the name
 Delwink, a software development company dedicated to creating quality software
@@ -51,7 +51,7 @@ How I do computing
 
 I currently run Debian GNU/Linux as my primary operating system, though I'm in
 the process of [switching to OpenBSD](/articles/openbsd.html). This server runs
-OpenBSD 6.7 on a Vultr VPS.
+OpenBSD 7.1 on a Vultr VPS.
 
 My personal computer runs Debian GNU/Linux Sid (rolling release) using the i3
 window manager. I mostly use Emacs for programming.
