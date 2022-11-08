@@ -3,6 +3,13 @@
 News Archive
 ============
 
+### Walkie Talkies Aren't Just Toys (October 20, 2018)
+
+I did some equipment testing recently to test the viability of cheap FRS radios
+for neighborhood-scale communication/coordination in a disaster scenario.
+
+[Read the article...](/articles/frs-test.html)
+
 ### More retro goodness (August 6, 2018)
 
 I've been trying on-and-off since 2016 to get my late 90s laptop running

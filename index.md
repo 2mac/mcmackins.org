@@ -9,6 +9,12 @@ anecdotes about what's going on in my life.
 News
 ----
 
+### You Have a Right to Complain (November 8, 2022)
+
+A common meme about elections has gotten under my skin.
+
+[Read the article...](/articles/election-gatekeeping.html)
+
 ### How to use RT Systems cables on Linux (February 23, 2022)
 
 I finally figured out a consistent way to get RT Systems programming cables to
@@ -33,12 +39,5 @@ Two posts in one day! Unheard of!
 After all this time, I'm finally getting away from Linux.
 
 [Read more...](/articles/openbsd.html)
-
-### Walkie Talkies Aren't Just Toys (October 20, 2018)
-
-I did some equipment testing recently to test the viability of cheap FRS radios
-for neighborhood-scale communication/coordination in a disaster scenario.
-
-[Read the article...](/articles/frs-test.html)
 
 [Older...](/newsarchive.html)

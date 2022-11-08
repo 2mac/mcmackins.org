@@ -3,6 +3,8 @@
 Articles
 ========
 
+[You Have a Right to Complain](election-gatekeeping.html)
+
 [Using RT Systems cables on Linux](rt-systems-linux.html)
 
 [Why I Stopped Using the GPL](not-gpl.html)
