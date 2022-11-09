@@ -9,8 +9,9 @@ You Have a Right to Complain
 
 I'm not sure when I first heard this sentiment, but I rank it up with the most
 overdone memes in American politics. Any time the question of whether someone
-should bother participating in the election, I hear this slogan repeated. It's
-practically a tautology, a truism accepted by all good American citizens.
+should bother participating in the election is raised, I hear this slogan
+repeated. It's practically a tautology, a truism accepted by all good American
+citizens.
 
 The reasoning behind this sentiment is, perhaps obviously, that in a democratic
 society, each citizen has an opportunity to voice their opinion in a very
