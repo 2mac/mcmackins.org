@@ -9,6 +9,13 @@ anecdotes about what's going on in my life.
 News
 ----
 
+### I started a photo blog! (November 21, 2022)
+
+I got a camera recently and have been taking quite a few photos. I have put
+them up on a Neocities site. Check it out!
+
+[Go now!](https://zerock.neocities.org/)
+
 ### You Have a Right to Complain (November 8, 2022)
 
 A common meme about elections has gotten under my skin.
@@ -33,11 +40,5 @@ My license preferences have changed since last I wrote about them.
 Two posts in one day! Unheard of!
 
 [Read the article...](/articles/simple-life.html)
-
-### I'm Switching to OpenBSD (March 29, 2020)
-
-After all this time, I'm finally getting away from Linux.
-
-[Read more...](/articles/openbsd.html)
 
 [Older...](/newsarchive.html)

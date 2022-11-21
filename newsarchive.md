@@ -3,6 +3,12 @@
 News Archive
 ============
 
+### I'm Switching to OpenBSD (March 29, 2020)
+
+After all this time, I'm finally getting away from Linux.
+
+[Read more...](/articles/openbsd.html)
+
 ### Walkie Talkies Aren't Just Toys (October 20, 2018)
 
 I did some equipment testing recently to test the viability of cheap FRS radios
