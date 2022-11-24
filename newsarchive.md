@@ -3,6 +3,12 @@
 News Archive
 ============
 
+### Living the Simple Life (March 29, 2020)
+
+Two posts in one day! Unheard of!
+
+[Read the article...](/articles/simple-life.html)
+
 ### I'm Switching to OpenBSD (March 29, 2020)
 
 After all this time, I'm finally getting away from Linux.

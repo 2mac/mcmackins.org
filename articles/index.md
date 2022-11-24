@@ -3,6 +3,8 @@
 Articles
 ========
 
+[My Thoughts on Yesterweb](yesterweb.html)
+
 [You Have a Right to Complain](election-gatekeeping.html)
 
 [Using RT Systems cables on Linux](rt-systems-linux.html)

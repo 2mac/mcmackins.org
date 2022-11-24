@@ -9,6 +9,12 @@ anecdotes about what's going on in my life.
 News
 ----
 
+### My Thoughts on Yesterweb (November 23, 2022)
+
+I'm disappointed by a website that would otherwise be a force for good.
+
+[Read the article...](/articles/yesterweb.html)
+
 ### I started a photo blog! (November 21, 2022)
 
 I got a camera recently and have been taking quite a few photos. I have put
@@ -34,11 +40,5 @@ work with CHIRP on Linux.
 My license preferences have changed since last I wrote about them.
 
 [Read the article...](/articles/not-gpl.html)
-
-### Living the Simple Life (March 29, 2020)
-
-Two posts in one day! Unheard of!
-
-[Read the article...](/articles/simple-life.html)
 
 [Older...](/newsarchive.html)
