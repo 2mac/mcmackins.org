@@ -11,4 +11,4 @@ from this site.
 You may also find me in on Libera Chat IRC. My username is Zerock.
 
 [1]: mailto:contact@mcmackins.org
-[2]: /dl/David McMackins.asc
+[2]: /dl/David_McMackins.asc
