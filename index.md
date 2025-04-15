@@ -9,6 +9,12 @@ anecdotes about what's going on in my life.
 News
 ----
 
+### The Labor Theory of Truth (April 15, 2025)
+
+My thoughts and observations about conspiracy theorists...
+
+[Read the article...](/articles/labor-theory-of-truth.html)
+
 ### My Thoughts on Yesterweb (November 23, 2022)
 
 I'm disappointed by a website that would otherwise be a force for good.
@@ -34,11 +40,5 @@ I finally figured out a consistent way to get RT Systems programming cables to
 work with CHIRP on Linux.
 
 [Read the article...](/articles/rt-systems-linux.html)
-
-### Why I Stopped Using the GPL (March 30, 2020)
-
-My license preferences have changed since last I wrote about them.
-
-[Read the article...](/articles/not-gpl.html)
 
 [Older...](/newsarchive.html)

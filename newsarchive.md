@@ -3,6 +3,12 @@
 News Archive
 ============
 
+### Why I Stopped Using the GPL (March 30, 2020)
+
+My license preferences have changed since last I wrote about them.
+
+[Read the article...](/articles/not-gpl.html)
+
 ### Living the Simple Life (March 29, 2020)
 
 Two posts in one day! Unheard of!

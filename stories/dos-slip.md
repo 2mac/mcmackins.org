@@ -3,6 +3,11 @@
 How I connected a DOS laptop to the Internet by becoming my own SLIP ISP
 ========================================================================
 
+__NOTICE:__ This story is preserved for entertainment purposes, but since its
+writing, I have learned of far superior methods of networking DOS over serial
+and parallel lines. Please see [my up-to-date guide][7] if you're looking to do
+this yourself!
+
 ### August 6, 2018
 
 Since 2016 when I first installed FreeDOS on my 1998-vintage laptop (yes, the
@@ -244,3 +249,4 @@ port for things that can only be done over serial (like XMODEM transfers).
 [4]: /res/dos/SLIPUP.BAT
 [5]: /res/dos/slipdown.sh
 [6]: /res/dos/SLIPDOWN.BAT
+[7]: /articles/dos-networking.html
