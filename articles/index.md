@@ -3,6 +3,8 @@
 Articles
 ========
 
+[The Labor Theory of Truth](/articles/labor-theory-of-truth.html)
+
 [My Thoughts on Yesterweb](yesterweb.html)
 
 [You Have a Right to Complain](election-gatekeeping.html)
